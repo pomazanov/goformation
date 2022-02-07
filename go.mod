@@ -1,4 +1,4 @@
-module github.com/awslabs/goformation/v5
+module github.com/pomazanov/goformation/v5
 
 require (
 	github.com/awslabs/goformation/v4 v4.19.5
