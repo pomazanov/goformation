@@ -1,7 +1,7 @@
 module github.com/pomazanov/goformation/v5
 
 require (
-	github.com/pomazanov/goformation/v4 v4.19.5
+	github.com/awslabs/goformation/v4 v4.19.5
 	github.com/imdario/mergo v0.3.12
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.12.0
